@@ -1,6 +1,6 @@
 <h1 align="center">Ahmadullah Faizan</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
-<img align="right" alt="Faizan" width ="400" src="https://pin.it/4Ph0Y7a4i">
+<img align="right" alt="Faizan" width ="400" src="https://share.google/U6p6lpHCGqNqkBRTn.gif">
 
 - 🔭 I’m currently staying on [Rana University](خانه - پوهنتون رنا https://share.google/456dqQhsk9YFrMj5u)
 
