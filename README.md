@@ -2,7 +2,7 @@
 <h1 align="center">Ahmadullah Faizan</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan<<h3>
 <h1 align="left">My Experience</h1>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cpp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="skillicons.dev/icons?i=py,cpp&them=dark" alt="Languages"/>
 <img align="right" alt="Faizan" width ="400" src="https://share.google/U6p6lpHCGqNqkBRTn.gif">
 
 - 🔭 I’m currently staying on [Rana University](خانه - پوهنتون رنا https://share.google/456dqQhsk9YFrMj5u)
