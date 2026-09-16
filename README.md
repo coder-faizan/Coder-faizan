@@ -1,5 +1,5 @@
 
-<img align="left" src='./1faa4c5a-7ac2-4d26-b61d-ddae41b64b43.jpeg' alt="Faizan" width="300pxl"/>
+<img align="center" src='./1faa4c5a-7ac2-4d26-b61d-ddae41b64b43.jpeg' alt="Faizan" width="300pxl"/>
 <h1 align="center">Ahmadullah Faizan</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan<h3>
 <h1 align="left">My Experience</h1>
